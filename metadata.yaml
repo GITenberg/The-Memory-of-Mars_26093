@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25386
     wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26093#The-Memory-of-Mars
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-07-19'
 gutenberg_type: Text
